@@ -158,8 +158,15 @@ sudo python nodemcu-uploader.py --port /dev/cu.usbserial file format
 Referências:
 
 [http://www.esp8266.com/viewtopic.php?f=19&t=2029](http://www.esp8266.com/viewtopic.php?f=19&t=2029)
+[https://github.com/esp8266/Arduino/](https://github.com/esp8266/Arduino/)
 [https://nurdspace.nl/ESP8266](https://nurdspace.nl/ESP8266)
 [https://www.reddit.com/r/esp8266/comments/2yqunh/battery_powered_pir_sensor_with_esp8266_is_an/](https://www.reddit.com/r/esp8266/comments/2yqunh/battery_powered_pir_sensor_with_esp8266_is_an/)
+
+C++:
 [https://github.com/Jorgen-VikingGod/ESP8266-MFRC522](https://github.com/Jorgen-VikingGod/ESP8266-MFRC522)
 [https://github.com/tuanpmt/esp_mqtt](https://github.com/tuanpmt/esp_mqtt)
+
+Toolchain:
+[https://github.com/pfalcon/esp-open-sdk](https://github.com/pfalcon/esp-open-sdk)
 [http://www.esp8266.com/wiki/doku.php?id=setup-osx-compiler-esp8266](http://www.esp8266.com/wiki/doku.php?id=setup-osx-compiler-esp8266)
+[https://github.com/jcmvbkbc/crosstool-NG/issues/5](https://github.com/jcmvbkbc/crosstool-NG/issues/5)
