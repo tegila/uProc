@@ -1,0 +1,3 @@
+> Achei esse código na internet e fiz um remendo nele. Esse IP (85.119.83.194) é de um servidor de teste criado pelos próprios criadores do _mosquitto_ facilitando assim a vida dos mais apressados. Com ele você pode fazer seu dispositivo conectar nesse servidor publico e começar a enviar/receber suas mensagens que poderão ser ouvidas por todos os outros que estiverem _subscribe_ no canal _#brazuca_.
+
+> Vale lembrar que o sensor PIR funciona com 5v na alimentação.
