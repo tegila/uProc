@@ -1,5 +1,9 @@
 ###OLED 128x64
 ------------
+Para começar então, os displays OLED são controlados por SPI:
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SPI_single_slave.svg/525px-SPI_single_slave.svg.png)
+
+Com algumas leves alterações:
 
 |  SPI |   ESP8266  | OLED |
 |:----:|:----------:|:----:|
@@ -10,4 +14,4 @@
 |   -  |    GPIO2   |  DC  |
 |   -  |   GPIO16   |  RST |
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SPI_single_slave.svg/525px-SPI_single_slave.svg.png)
+
